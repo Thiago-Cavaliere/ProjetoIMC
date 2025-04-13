@@ -27,12 +27,10 @@ Clone este repositório para o seu computador:
 
 ```bash
 git clone https://github.com/Thiago-Cavaliere/ProjetoIMC.git
+
+
 Instale as dependências:
-
-
 npm install
+
 Execute o projeto localmente:
-
-
-
 npm run dev
