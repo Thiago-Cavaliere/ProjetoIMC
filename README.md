@@ -1,13 +1,37 @@
-# React + Vite
+CΛVΛLIΞRE
+💥 Calculadora de IMC (Índice de Massa Corporal)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples para calcular o IMC de uma pessoa baseado no peso e altura informados. O objetivo é permitir que os usuários avaliem sua saúde com base em uma fórmula amplamente utilizada. A interface é simples e intuitiva, proporcionando uma boa experiência para quem deseja verificar seu IMC de forma rápida e eficiente.
 
-Currently, two official plugins are available:
+⚙️ Tecnologias Usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HTML: Estruturação do conteúdo da página.
 
-## Expanding the ESLint configuration
+CSS: Estilo visual e responsividade para uma melhor experiência do usuário.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# CalculoIMC
+JavaScript: Cálculos do IMC e interatividade no site.
+
+Vite: Ferramenta para compilar e otimizar o código do projeto.
+
+🧠 Funcionalidades
+
+Calculadora de IMC: Permite que os usuários insiram seu peso e altura para calcular seu IMC.
+
+Resultado: O site exibe o IMC calculado e o classifica em diferentes categorias (Abaixo do peso, Peso normal, Sobrepeso, etc.).
+
+Interface Responsiva: O design é otimizado para funcionar bem em diferentes dispositivos, de desktops a celulares.
+
+💡 Como Usar
+Clone este repositório para o seu computador:
+
+
+git clone https://github.com/Thiago-Cavaliere/ProjetoIMC.git
+Instale as dependências:
+
+
+npm install
+Execute o projeto localmente:
+
+
+
+npm run dev
