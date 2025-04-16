@@ -22,6 +22,10 @@ Resultado: O site exibe o IMC calculado e o classifica em diferentes categorias 
 
 Interface Responsiva: O design é otimizado para funcionar bem em diferentes dispositivos, de desktops a celulares.
 
+## 📸 GIF do Projeto:
+![Demonstração do Projeto](./public/assets/IMC.gif)
+
+
 💡 **Como Usar**
 Clone este repositório para o seu computador:
 
