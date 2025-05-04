@@ -1,5 +1,3 @@
-// Tudo está em português para melhor entendimento para didática
-
 import { useState } from "react";
 
 export default function App() {
@@ -16,7 +14,6 @@ export default function App() {
       return;
     }
 
-    // Convertendo os valores para número
     const pesoNum = parseFloat(peso);
     const alturaNum = parseFloat(altura) / 100; // Convertendo cm para metros
 
@@ -35,7 +32,6 @@ export default function App() {
       categoria = "Obesidade";
     }
 
-    // Definindo o resultado final
     setResultado(`${nome}, seu IMC é ${imc.toFixed(2)} (${categoria}).`);
   };
 
@@ -74,7 +70,7 @@ export default function App() {
 
       <button
         onClick={calcularIMC}
-        className="px-4 py-2 bg-blue-500 text-white rounded"
+        className="px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-400 text-white font-semibold rounded-xl shadow-md hover:from-blue-700 hover:to-blue-500 transition-all duration-300 ease-in-out"
       >
         Calcular IMC
       </button>
