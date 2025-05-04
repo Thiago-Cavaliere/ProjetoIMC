@@ -22,7 +22,7 @@ Resultado: O site exibe o IMC calculado e o classifica em diferentes categorias 
 
 Interface Responsiva: O design é otimizado para funcionar bem em diferentes dispositivos, de desktops a celulares.
 
-link do projeto: https://projeto-imc-phi.vercel.app/
+link do projeto:
 <a href="https://projeto-imc-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
   Acessar Projeto
 </a>
